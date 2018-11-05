@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\prac1\.android\build-cache\b068a6b26a23a1e4a2186968d1c861ce8fde31f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\prac1\Downloads\SimpleAndroidWebViewExample-master\app\build\intermediates\pre-dexed\debug\classes_0ebdbf01268024e3f65f6a9c18502a64554ef56d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\prac1\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\prac1\Downloads\SimpleAndroidWebViewExample-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_aac98b3226f3ae8ac90e6ecc1b782147e6c197c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\prac1\.android\build-cache\9b35cf5f30efc58ab1a4fffdfae677e175a74a33\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\prac1\Downloads\SimpleAndroidWebViewExample-master\app\build\intermediates\pre-dexed\debug\classes_4f25eea2c2eaf9b4f02c2d4a833c5d3817a36bd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\prac1\.android\build-cache\9b35cf5f30efc58ab1a4fffdfae677e175a74a33\output\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\prac1\Downloads\SimpleAndroidWebViewExample-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_7045962a44f4ce2166b0135ddf2c1d60109a0377.jar" />
+    </item>
+
+</items>
